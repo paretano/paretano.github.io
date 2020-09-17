@@ -7,6 +7,14 @@ body {
   line-height: 1.8em;
 }
 
+.carousel{ 
+	width: 50%;
+
+margin: auto;
+}
+.carousel-inner img {
+  margin: auto;
+}
 a {
   color: #1C9C94;
   text-decoration: none;
