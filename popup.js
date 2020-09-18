@@ -11,7 +11,7 @@
   window.Agegate = function(options) {
     var defaults = {
       cookie: 'popup_agreed',
-      body: 'Contiene contenuto divertente! Hai un età compresa tra i 18 e 55 anni?',
+      body: 'Può contenere contenuto divertente! Hai un età compresa tra i 18 e 55 anni?',
       cancelUrl: '/',
       expires: 0, // days
       success: function() {},
